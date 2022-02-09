@@ -1,0 +1,132 @@
+Arhimed (2003,1,17) from:  Country City Street House 
+	           pineapple      14 x 0.91     12.74
+	                lamp      6 x 29.35     176.1
+	              wisdom       7 x 6.99     48.93
+Total purchases: 3 differents, summ = 237.77
+_______________________________________________________
+Arhimed (2003,1,18) from:  Country City Street House 
+	           pineapple      14 x 0.91     12.74
+	                lamp      6 x 29.35     176.1
+	              wisdom       7 x 6.99     48.93
+Total purchases: 3 differents, summ = 237.77
+_______________________________________________________
+Aristotel (1978,6,26) from:  Country City Street House 
+	               apple      24 x 0.15       3.6
+	         lcd_monitor     3 x 299.35    898.05
+	              bagade       9 x 3.64     32.76
+	              wisdom       7 x 6.99     48.93
+Total purchases: 4 differents, summ = 983.34
+_______________________________________________________
+Aristotel (1978,6,26) from:  Country City Street House 
+	               apple      24 x 0.15       3.6
+	         lcd_monitor     3 x 299.35    898.05
+	              bagade       9 x 3.64     32.76
+	              wisdom       7 x 6.99     48.93
+Total purchases: 4 differents, summ = 983.34
+_______________________________________________________
+Dan (1981,4,27) from:  Country City Street House 
+	           pineapple      14 x 0.91     12.74
+	                lamp      6 x 29.35     176.1
+	              orange      17 x 2.15     36.55
+	               spine       8 x 6.35      50.8
+Total purchases: 4 differents, summ = 276.19
+_______________________________________________________
+Dan (1981,4,27) from:  Country City Street House 
+	           pineapple      14 x 0.91     12.74
+	                lamp      6 x 29.35     176.1
+	              orange      17 x 2.15     36.55
+	               spine       8 x 6.35      50.8
+Total purchases: 4 differents, summ = 276.19
+_______________________________________________________
+Foma (2031,8,23) from:  Country City Street House 
+	           pineapple      14 x 0.91     12.74
+	                lamp      6 x 29.35     176.1
+	              wisdom       7 x 6.99     48.93
+Total purchases: 3 differents, summ = 237.77
+_______________________________________________________
+Foma (2031,8,24) from:  Country City Street House 
+	           pineapple      14 x 0.91     12.74
+	                lamp      6 x 29.35     176.1
+	              wisdom       7 x 6.99     48.93
+Total purchases: 3 differents, summ = 237.77
+_______________________________________________________
+George (2006,10,3) from:  Country City Street House 
+	              wisdom       7 x 6.99     48.93
+	               apple      24 x 0.15       3.6
+	              orange      17 x 2.15     36.55
+	         lcd_monitor     3 x 299.35    898.05
+Total purchases: 4 differents, summ = 987.13
+_______________________________________________________
+George (2006,10,3) from:  Country City Street House 
+	              wisdom       7 x 6.99     48.93
+	               apple      24 x 0.15       3.6
+	              orange      17 x 2.15     36.55
+	         lcd_monitor     3 x 299.35    898.05
+Total purchases: 4 differents, summ = 987.13
+_______________________________________________________
+Geracklit (1998,11,30) from:  Country City Street House 
+	           pineapple      14 x 0.91     12.74
+	                lamp      6 x 29.35     176.1
+	              orange      17 x 2.15     36.55
+	               spine       8 x 6.35      50.8
+Total purchases: 4 differents, summ = 276.19
+_______________________________________________________
+Geracklit (1998,11,30) from:  Country City Street House 
+	           pineapple      14 x 0.91     12.74
+	                lamp      6 x 29.35     176.1
+	              orange      17 x 2.15     36.55
+	               spine       8 x 6.35      50.8
+Total purchases: 4 differents, summ = 276.19
+_______________________________________________________
+Immanuil (2007,4,6) from:  Country City Street House 
+	              orange      17 x 2.15     36.55
+	               apple      24 x 0.15       3.6
+	              wisdom       7 x 6.99     48.93
+	         lcd_monitor     3 x 299.35    898.05
+Total purchases: 4 differents, summ = 987.13
+_______________________________________________________
+Immanuil (2007,4,7) from:  Country City Street House 
+	              orange      17 x 2.15     36.55
+	               apple      24 x 0.15       3.6
+	              wisdom       7 x 6.99     48.93
+	         lcd_monitor     3 x 299.35    898.05
+Total purchases: 4 differents, summ = 987.13
+_______________________________________________________
+Masterson (2005,8,14) from:  Country City Street House 
+	               apple      24 x 0.15       3.6
+	         lcd_monitor     3 x 299.35    898.05
+Total purchases: 2 differents, summ = 901.65
+_______________________________________________________
+Masterson (2005,8,14) from:  Country City Street House 
+	               apple      24 x 0.15       3.6
+	         lcd_monitor     3 x 299.35    898.05
+Total purchases: 2 differents, summ = 901.65
+_______________________________________________________
+Pedocl (2013,9,25) from:  Country City Street House 
+	              bagade       9 x 3.64     32.76
+	              wisdom       7 x 6.99     48.93
+	               apple      24 x 0.15       3.6
+	         lcd_monitor     3 x 299.35    898.05
+Total purchases: 4 differents, summ = 983.34
+_______________________________________________________
+Pedocl (2013,9,25) from:  Country City Street House 
+	              bagade       9 x 3.64     32.76
+	              wisdom       7 x 6.99     48.93
+	               apple      24 x 0.15       3.6
+	         lcd_monitor     3 x 299.35    898.05
+Total purchases: 4 differents, summ = 983.34
+_______________________________________________________
+Piter (2021,12,1) from:  Country City Street House 
+	           pineapple      14 x 0.91     12.74
+	                lamp      6 x 29.35     176.1
+	              orange      17 x 2.15     36.55
+	               spine       8 x 6.35      50.8
+Total purchases: 4 differents, summ = 276.19
+_______________________________________________________
+Piter (2021,12,1) from:  Country City Street House 
+	           pineapple      14 x 0.91     12.74
+	                lamp      6 x 29.35     176.1
+	              orange      17 x 2.15     36.55
+	               spine       8 x 6.35      50.8
+Total purchases: 4 differents, summ = 276.19
+_______________________________________________________

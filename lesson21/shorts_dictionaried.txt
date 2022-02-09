@@ -1,0 +1,77 @@
+answer 
+argument 
+byte 
+bus  
+dress  
+watch  
+box  
+tomato  
+hero  
+kilo 
+cherry  
+lady  
+puppy  
+boy 
+calf  
+elf  
+shelf  
+lif  
+loaf  
+wif  
+wolf  
+buffer 
+array 
+apple 
+i am
+i had
+are not
+cannot
+could not
+did not
+do   not
+do not
+had not
+has not
+have not
+he had
+he will
+he is
+i had
+i will
+i am
+i have
+is not
+it is
+let is
+must not
+shall not
+she had
+she will
+she is
+should not
+that is
+there is
+the  had
+the  will
+the  are
+the  have
+we had
+we are
+we have
+were not
+what will
+what are
+what is
+what have
+where is
+who had
+who will
+who are
+who is
+who have
+will not
+would not
+you had
+you will
+you are
+you have

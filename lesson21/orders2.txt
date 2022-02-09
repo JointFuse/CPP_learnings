@@ -1,0 +1,10 @@
+{ Arhimed (2003,1,18) from:  Country City Street House  : [pineapple 0.91 14][lamp 29.35 6][wisdom 6.99 7] }
+{ Aristotel (1978,6,26) from:  Country City Street House  : [apple 0.15 24][lcd_monitor 299.35 3][bagade 3.64 9][wisdom 6.99 7] }
+{ Dan (1981,4,27) from:  Country City Street House  : [pineapple 0.91 14][lamp 29.35 6][orange 2.15 17][spine 6.35 8] }
+{ Foma (2031,8,24) from:  Country City Street House  : [pineapple 0.91 14][lamp 29.35 6][wisdom 6.99 7] }
+{ George (2006,10,3) from:  Country City Street House  : [wisdom 6.99 7][apple 0.15 24][orange 2.15 17][lcd_monitor 299.35 3] }
+{ Geracklit (1998,11,30) from:  Country City Street House  : [pineapple 0.91 14][lamp 29.35 6][orange 2.15 17][spine 6.35 8] }
+{ Immanuil (2007,4,7) from:  Country City Street House  : [orange 2.15 17][apple 0.15 24][wisdom 6.99 7][lcd_monitor 299.35 3] }
+{ Masterson (2005,8,14) from:  Country City Street House  : [apple 0.15 24][lcd_monitor 299.35 3] }
+{ Pedocl (2013,9,25) from:  Country City Street House  : [bagade 3.64 9][wisdom 6.99 7][apple 0.15 24][lcd_monitor 299.35 3] }
+{ Piter (2021,12,1) from:  Country City Street House  : [pineapple 0.91 14][lamp 29.35 6][orange 2.15 17][spine 6.35 8] }
