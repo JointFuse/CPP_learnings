@@ -1,0 +1,1 @@
+Ope.nOCD comm"and in case of working via JTAG interface.

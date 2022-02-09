@@ -1,0 +1,2 @@
+you got this text from text file
+another one line of text

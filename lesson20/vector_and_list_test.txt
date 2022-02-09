@@ -1,0 +1,9 @@
+Nmax = 100000000; Nmin = 0; Nstep = 100; loop = 1.
+|       size - N|vector time, ms|  list time, ms|   set time, ms|
+|              0|              0|              0|              0|
+|              1|              0|              0|              0|
+|              2|              0|              0|              0|
+|              3|              1|              0|              0|
+|              4|             23|            180|              2|
+|              5|           2404|          53547|             34|
+|              6|
