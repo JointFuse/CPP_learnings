@@ -1,0 +1,15 @@
+= 0
+> = 0
+> = 36
+> Bad token
+> ')' expected
+> info loss
+> primary expected
+> primary expected
+> /: divide by zero
+> primary expected
+> = -2
+> = -2
+> = 1.23457e+15
+> Bad token
+> get: undefined name q
